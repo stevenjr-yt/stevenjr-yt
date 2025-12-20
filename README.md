@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/stevenjr-yt/stevenjr-yt/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/stevenjr-yt/stevenjr-yt/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **stevenjr-yt/stevenjr-yt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
