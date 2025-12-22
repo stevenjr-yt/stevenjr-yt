@@ -41,8 +41,8 @@ I am a Computer Science student at **IIB Darmajaya** with a deep passion for **C
 
 ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteVenJr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteVenJr&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevenjr-yt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenjr-yt&layout=compact&theme=tokyonight)
 
 ---
 
